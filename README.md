@@ -11,21 +11,10 @@ A web-based application for managing movies, built using Java Servlets, JSP, and
 - Clean, responsive UI built with JSP and CSS.
 
 ## Technologies Used
-- **Backend**: Java Servlets, DAO Design Pattern.
+- **Backend**: Java Servlets, DAO, MVC Design Pattern.
 - **Frontend**: JSP, HTML, CSS.
 - **Database**: HSQLDB.
-- **Tools**: GitHub, Apache Tomcat Server.
-
-## Challenges and Solutions
-- **Issue**: Blank JSP pages on form submission.  
-  **Solution**: Debugged servlets and corrected action paths.  
-- **Issue**: Maintaining data integrity in HSQLDB.  
-  **Solution**: Used foreign key constraints and SQL cascade deletion.
-
-## Future Enhancements
-- Add search and filter functionality.
-- Implement role-based access control for admins.
-- Deploy on a cloud-based database.
+- **Tools**: Apache Tomcat Server.
 
 ## How to Run
 1. Clone the repository: `git clone <repo-link>`.
